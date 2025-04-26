@@ -1,0 +1,21 @@
+# Medlock 🩺✨
+
+**Medlock** is a simple AI-powered patient summary app that allows healthcare professionals to input patient notes and receive concise AI-generated summaries. Built as a capstone project combining healthcare, AI, and software engineering.
+
+## Features
+- Patient input + AI summary using 🤗 Transformers
+- Stores data securely in SQLite
+- Search through summaries with keyword filters
+- Beginner-friendly Jupyter Notebook interface
+
+## Technologies Used
+- Python
+- HuggingFace Transformers
+- SQLite
+- Jupyter Notebook
+
+## Getting Started
+1. Clone this repo
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
